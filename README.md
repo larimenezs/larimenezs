@@ -1,3 +1,5 @@
+
+##
 ### Linguagens e Tecnologias em aprendizado
 
 <div style="display: inline_block"><br>
@@ -7,3 +9,5 @@
   <img align="center" alt="Lari-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="Lari-github" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg"> 
 </div>
+
+##
