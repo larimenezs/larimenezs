@@ -9,8 +9,7 @@
   <img align="center" alt="Lari-github" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg">
   
   
-  <img align="right" alt="lari-gif" height="110" wight="45" src="https://github.com/user-attachments/assets/6425ed30-5546-4a18-b388-48feaf6afe31">
-</div>
+  <img align="right" alt="" height="190px" src="/mari4souza/mari4souza/raw/main/src/study.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 ##
 
@@ -25,3 +24,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/larimenezs/larimenezs/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
+
+
