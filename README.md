@@ -9,7 +9,7 @@
   <img align="center" alt="Lari-github" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg">
   
   
-  <img align="right" alt="lari-gif" height="95" wight="45" src="https://github.com/user-attachments/assets/6425ed30-5546-4a18-b388-48feaf6afe31">
+  <img align="right" alt="lari-gif" height="110" wight="45" src="https://github.com/user-attachments/assets/6425ed30-5546-4a18-b388-48feaf6afe31">
 </div>
 
 ##
