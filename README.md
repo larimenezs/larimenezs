@@ -1,7 +1,7 @@
 #
 
 <img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/9ac3298b-eed7-45b7-af7a-1bdbdfb7dc28">
-
+<br>
 #### Linguagens e Tecnologias em aprendizado:
 <div style="display: inline_block"><br>
   <img align="center" alt="Lari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
