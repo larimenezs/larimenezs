@@ -3,7 +3,7 @@
 <img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/9ac3298b-eed7-45b7-af7a-1bdbdfb7dc28">
 
 #### Estudando no momento:
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Lari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lari-Django" height="50" width="50" src="https://github.com/user-attachments/assets/f744e8e5-3b03-496c-895d-0b0f647dfd00">
   <img align="center" alt="Lari-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
