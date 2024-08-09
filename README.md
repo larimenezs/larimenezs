@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/larissa-menezes-tec" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
-#### Estudando no momento:
+#### 📖 Estudando no momento:
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="left">
   <tr>
