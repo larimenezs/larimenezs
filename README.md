@@ -1,29 +1,59 @@
 ## 👋🏻 Olá!
 
-<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/9ac3298b-eed7-45b7-af7a-1bdbdfb7dc28">
+
+<p align="left">
+  <a href="mailto:larissamenezes.tec@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/larissa-menezes-tec" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
 
 #### Estudando no momento:
-<div style="display: inline_block">
-  <img align="center" alt="Lari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lari-Django" height="50" width="50" src="https://github.com/user-attachments/assets/f744e8e5-3b03-496c-895d-0b0f647dfd00">
-  <img align="center" alt="Lari-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="Lari-Mysql" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Lari-github" height="30" width="40" src="https://github.com/user-attachments/assets/2e7c885d-c186-41f2-be2e-bceedc7d9e06">
-</div>
-
-# 
-<div> 
-  <a href = "mailto:larissamenezes.tec@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/larissa-menezes-tec" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="left">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/user-attachments/assets/8ff1cd9b-0321-490b-9a34-da157c4708c1" alt="icon" width="65" height="65" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/user-attachments/assets/9e02f868-b734-41c8-baca-dd764218bf5d" alt="icon" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://github.com/user-attachments/assets/9b0aaec1-7a64-43d6-8778-99982a83cb48" width="65" height="65" alt="Git" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/user-attachments/assets/61ec1abb-1eba-4c39-bcb7-6d396d00643f" width="65" height="65" alt="Django" />
+      <br>PowerBI
+    </td>
+ </tr>
+</table>
 </div>
 
 <br>
-<div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larimenezs/larimenezs/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larimenezs/larimenezs/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/larimenezs/larimenezs/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
+<img align="left" alt="" height="190px" src="https://github.com/user-attachments/assets/9ac3298b-eed7-45b7-af7a-1bdbdfb7dc28">
+
+
+
+
+
+
+
+
+
+
+
 
 
