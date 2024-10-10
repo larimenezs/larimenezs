@@ -35,8 +35,7 @@
       <br>Vers.Git   
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/user-attachments/assets/61ec1abb-1eba-4c39-bcb7-6d396d00643f" width="55" height="55" alt="Django" />
-      <br>PowerBI
+      <br>
     </td>
  </tr>
 </table>
