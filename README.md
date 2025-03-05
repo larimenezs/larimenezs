@@ -34,17 +34,14 @@
         <img src="https://github.com/user-attachments/assets/8ff1cd9b-0321-490b-9a34-da157c4708c1" width="55" height="55" alt="Git" />
       <br>Vers.Git   
     </td>
-    <td align="center" width="96">
       <br>
     </td>
  </tr>
 </table>
 </div>
 
+<td>
 <br>
-<img align="left" alt="" height="190px" src="https://github.com/user-attachments/assets/9ac3298b-eed7-45b7-af7a-1bdbdfb7dc28">
-
-
 
 
 
